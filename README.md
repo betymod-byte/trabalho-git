@@ -1,2 +1,3 @@
-# trabalho-git
-trabalho de gerenciamento de configuração de software
+projeto2026_SCM
+Projeto de aula prática de gerenciamento de configuração de software
+
